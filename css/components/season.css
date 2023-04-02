@@ -1,0 +1,8 @@
+.season-background {
+	background-color: #ffc2c2;
+	position: relative;
+	padding: 60px;
+	margin: 50px;
+	box-shadow:0px 5px 10px 0px rgba(52, 34, 54, 0.5);
+	border-radius: 5px;
+}

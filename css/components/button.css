@@ -1,0 +1,33 @@
+.btn-pink {
+	background-color: #ffc2c2;
+	color:#d60084;
+	padding:10px 15px;
+	border-radius:5px;
+	font-weight:bold;
+	margin-left: 300px;
+	text-decoration:none;
+
+}
+
+.btn-pink:hover{
+	background-color:#d60084;
+	color:#ffc2c2;
+	transition: color 0.3s ease;
+}
+
+.btn-green {
+	background-color:#c7e986;
+	color:#6A7026;
+	padding:10px 15px;
+	border-radius:5px;
+	font-weight:bold;
+    text-decoration:none;
+
+}
+
+.btn-green:hover{
+	background-color:#6A7026;
+	color:#c7e986;
+	transition: color 0.3s ease;
+}
+

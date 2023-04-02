@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+SC&family=Dancing+Script&family=Delicious+Handrawn&family=Great+Vibes&family=Handlee&family=Kite+One&family=Quintessential&family=Xanh+Mono&display=swap");
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+body {
+   background-color: #bde571;
+   font-family: 'Kite One', sans-serif;
+   font-weight: lighter;
+   font-size: 20px;
+   color:#6A7026;
+
+;
+}
+
+h1, h2, h3 {
+   font-family: 'Quintessential', cursive;
+   font-weight: lighter;
+}
+
+h1{
+   font-size: 50px;
+}
+
+h2{
+  font-size: 30px;
+}
+
+h3{
+   font-family: 'Alegreya SC', serif;
+   padding-right: 20px;
+   color: #0c3b1c;
+}
+
+
+h4{
+  color:#6A7026;
+  font-family: 'Alegreya SC', serif;
+  font-size: 35px;
+  font-weight:lighter;
+  margin-left: 30px;
+}
+
+h5{
+  color:#6A7026;
+  font-family: 'Alegreya SC', serif;
+  font-size: 30px;
+  font-weight:lighter;
+  margin-left: 30px;
+}
+
+
+
+}
+
+a{
+	text-decoration:none;
+    font-family: 'Xanh Mono', monospace;
+    font-size: 15px;
+
+}
